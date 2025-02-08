@@ -1,3 +1,3 @@
 # Suman-demo
-first  git repositary
+first  git repositary.
 Author - Suman
